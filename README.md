@@ -1,4 +1,3 @@
 # Hotel-Project
 
-## Practice with CSS and HTML
-# Timeline
+# Practice with CSS and HTML
